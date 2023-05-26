@@ -7,6 +7,9 @@ This project is a simple web page that displays information about a staff team u
 <img width="960" alt="Screenshot 2023-05-26 053442" src="https://github.com/KunalKhandekar/Card-Project/assets/134169718/a24e0456-3b15-4351-b795-51acdfca8307">
 
 ## Getting Started
+Go to - https://kunalkhandekar.github.io/Card-Project/
+
+OR
 
 To view the web page, simply open the index.html file in a web browser. The page will render with the staff profiles and navigation bar.
 
