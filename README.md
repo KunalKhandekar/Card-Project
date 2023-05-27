@@ -32,4 +32,4 @@ You can customize the content and styling of the staff profiles by modifying the
 
 ## Contact
 
-If you have any questions, feedback, or suggestions regarding the MyMart landing page, please feel free to contact Kunal at kunalkhandekar010@gmail.com
+If you have any questions, feedback, or suggestions regarding this project, please feel free to contact Kunal at kunalkhandekar010@gmail.com
